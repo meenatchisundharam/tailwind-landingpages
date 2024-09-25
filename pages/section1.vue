@@ -886,8 +886,6 @@
  </div>
 </section>
 
-
-
 </template>
 
 <script setup>
@@ -910,9 +908,6 @@ activePage.value = page;
 bannerImage.value = images[page];
 };
 </script>
-
-
-
 
 
 <style>

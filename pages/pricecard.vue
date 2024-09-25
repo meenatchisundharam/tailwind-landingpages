@@ -2,7 +2,7 @@
 <div class="p-5 w-full flex flex-wrap gap-10 justify-center items-center min-h-screen bg-blue-500"
 >
 <div
-class="w-72 h-96 text-gray-300 rounded-lg bg-cover bg-blue-50 px-8 py-4"
+class="w-72 h-96 text-gray-500 rounded-lg bg-cover bg-blue-50 px-8 py-4"
 >
 <h3 class="text-lg text-blue-600 font-bold">Start-up</h3>
 <h3 class="text-lg text-blue-600 font-extrabold">Free forever</h3>
@@ -26,7 +26,7 @@ class="w-72 h-96 text-gray-300 rounded-lg bg-cover bg-blue-50 px-8 py-4"
 
 </div>
 <div
-class="w-72 h-96 text-gray-300 rounded-lg bg-cover bg-blue-50 px-8 py-4"
+class="w-72 h-96 text-gray-500 rounded-lg bg-cover bg-blue-50 px-8 py-4"
 >
 <h3 class="text-lg text-blue-600 font-bold">Start-up</h3>
 <h3 class="text-lg text-blue-600 font-extrabold">Free forever</h3>
@@ -50,7 +50,7 @@ class="w-72 h-96 text-gray-300 rounded-lg bg-cover bg-blue-50 px-8 py-4"
 
 </div>
 <div
-class="w-72 h-96 text-gray-300 rounded-lg bg-cover bg-blue-50 px-8 py-4"
+class="w-72 h-96 text-gray-500 rounded-lg bg-cover bg-blue-50 px-8 py-4"
 >
 <h3 class="text-lg text-blue-600 font-bold">Start-up</h3>
 <h3 class="text-lg text-blue-600 font-extrabold">Free forever</h3>
